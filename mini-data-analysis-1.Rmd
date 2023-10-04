@@ -85,10 +85,10 @@ And that is exactly the first thing that you will do!
 
 <!-------------------------- Start your work below ---------------------------->
 
-1: CHOICE_1: vancouver_trees
-2: CHOICE_2: cancer_sample
-3: CHOICE_3: apt_buildings
-4: CHOICE_4: parking_meters
+1: CHOICE_1_vancouver_trees
+2: CHOICE_2_cancer_sample
+3: CHOICE_3_apt_buildings
+4: CHOICE_4_parking_meters
 
 <!----------------------------------------------------------------------------->
 
